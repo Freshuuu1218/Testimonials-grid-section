@@ -137,9 +137,7 @@ main{
     .card{
         padding-bottom: 2.5em;
     }
-    .card.dark-grey{
-        margin-bottom: 2em;
-    }
+
     .card-author{
         align-items: center;
     }
